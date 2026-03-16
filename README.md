@@ -25,9 +25,10 @@ Some server insides:
 * [GORM](https://gorm.io/index.html) for ORM,
 * Kinda follows DDD...
 
+You can use docker-compose.yml file located under docker directory to spin up the DB locally.
+
 There are two users available in DB migration scripts:
 * user: test, pass: test123
 * user: test2, pass: test123
 
-(yeah, security...)  
-
+(yeah, security...)
