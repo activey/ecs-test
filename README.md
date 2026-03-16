@@ -9,7 +9,7 @@ Client details:
 
 * Built on top of [Ebitengine](https://ebitengine.org/),
 * Uses ECS (Entity-Component-System) provided by [Donburi](https://github.com/yottahmd/donburi-ecs)
-* GUI done with [Furex] (https://github.com/yottahmd/furex-ui)
+* GUI done with [Furex](https://github.com/yottahmd/furex-ui)
 * Tiled background edited with [Tiled](https://www.mapeditor.org/)
 * Path finding done with [go-astar](https://github.com/nickdavies/go-astar)
 
