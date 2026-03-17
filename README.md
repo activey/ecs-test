@@ -1,6 +1,8 @@
 # Ebitenengine playground
 This repository contains results of my first trial with Ebitengine :)
 
+![](demo.gif)
+
 The code consists of both server and client code of a very simple concept of a top-down
 pixel-art styled multiplayer game. In current state it just let you log-in to a locally running
 server and just move around a very first and unfinished world scene.
